@@ -1,0 +1,101 @@
+,Borough,Neighborhood,ID,Name,Likes,Rating,Tips
+0,Bronx,Kingsbridge,5660c06b498e4003dba169a5,Mon Amour Coffee & Wine,22,8.4,7
+1,Manhattan,Marble Hill,55f81cd2498ee903149fcc64,Starbucks,24,8,2
+2,Manhattan,Marble Hill,57655be738faa66160da7527,Starbucks,7,7.2,0
+3,Bronx,Norwood,4c6d5ce5e6b7b1f7af76a98e,Nicky's Coffee Shop,12,8,10
+4,Bronx,Pelham Parkway,4bb62b326edc76b05d80301c,Liberty Donut & Coffee Shop,14,7,8
+5,Bronx,West Farms,0,0,0,0,0
+6,Bronx,Throgs Neck,58b1b3e6076be15eeba26a3f,The Miles Coffee Bar,13,8,6
+7,Bronx,Van Nest,4c1c5630e9c4ef3b4ccd45aa,Conti's Pastry Shoppe,47,8.7,15
+8,Bronx,Morris Park,4c743793b474a1cd3bf5b5bf,La Casa Del Caffe,16,7.5,8
+9,Bronx,Belmont,53a0be61498eeec38e5112e0,Starbucks,68,7.3,11
+10,Bronx,Belmont,5cb4b7c5fdb9a7002c70843d,Starbucks,0,7.1,0
+11,Bronx,North Riverdale,4b8d1887f964a520aae732e3,Noni's Coffee Shop,8,6.9,5
+12,Bronx,Edgewater Park,58b1b3e6076be15eeba26a3f,The Miles Coffee Bar,13,8,6
+13,Bronx,Edgewater Park,0,0,0,0,0
+14,Brooklyn,Bensonhurst,0,0,0,0,0
+15,Brooklyn,Greenpoint,518cf9ec498e8c38bda0268d,Homecoming,217,8.9,45
+16,Brooklyn,Greenpoint,575467b1498e848fce847ca1,Pueblo Querido Coffee Roasters,22,8.1,7
+17,Brooklyn,Greenpoint,58b6e16ffc73d40233da9715,odd fox,41,8.4,8
+18,Brooklyn,Greenpoint,576eb1f5cd10a371033f7ad6,Maman,179,8.9,36
+19,Brooklyn,Greenpoint,4d8f7d48d265236a02c72117,Upright Coffee,159,7.8,49
+20,Brooklyn,Greenpoint,55cf6244498e24c4ebe3ae0b,Sweetleaf,170,8.5,24
+21,Brooklyn,Brighton Beach,4b59aedcf964a520999228e3,Starbucks,129,6.4,37
+22,Brooklyn,Manhattan Terrace,4c302b9409a99c749bff0a2a,Chock Full O' Nuts,6,6.2,1
+23,Brooklyn,Flatbush,5172b2d4498e646485496d05,Coffee Mob,85,8.1,32
+24,Brooklyn,Flatbush,55845926498e6ad57d30d6f8,Coffee Z,13,7,2
+25,Brooklyn,Crown Heights,4d2b2d3b3c795481e27ee69b,Jenny Coffe Shop #2,6,6.9,4
+26,Brooklyn,Crown Heights,0,0,0,0,0
+27,Brooklyn,Kensington,57c4b6dc498ece54312a9a70,Angelica's Coffee Shop,6,7,6
+28,Brooklyn,Prospect Heights,4a2407e6f964a520ef7d1fe3,Sit & Wonder,305,8.7,117
+29,Brooklyn,Prospect Heights,5a6cc216f5e9d763b7a37c8f,Gran Caffe De Martini,27,8.7,7
+30,Brooklyn,Prospect Heights,5d5021c8dbdd3d0008a39281,Coffee Spot,6,7.6,2
+31,Brooklyn,Williamsburg,5d8663bddfbfcc0007278c66,Konditori,0,7.7,0
+32,Brooklyn,Williamsburg,55b02e05498ef881a3a44c6d,The Flat's BK Speed Coffee,83,8.6,16
+33,Brooklyn,Bushwick,5ca8ea3cd4cc980039e3729c,Lazy Suzy Cafe & Shop,18,7.8,3
+34,Brooklyn,Bushwick,55e9fe71498e8edb034385a7,Dweebs,86,8.4,20
+35,Brooklyn,Bushwick,56b8c8aa498e095e6ff4b065,Brooklyn Kava,46,7.7,10
+36,Brooklyn,Bushwick,54c595e2498e9ffb3d369250,Bushwick Public House,87,7.2,20
+37,Brooklyn,Bushwick,4ee74dca7ee5cae3f273d82e,Central Cafe,60,6.5,44
+38,Brooklyn,Bedford Stuyvesant,56bf7516cd1024b6713b3563,Brooklyn Kettle,24,8,9
+39,Brooklyn,Bedford Stuyvesant,5662f5d3498e53d321cd3456,"S,T Coffee",9,7.4,1
+40,Brooklyn,Bedford Stuyvesant,52a102da11d29a428cb564e7,Crocus Coffee,23,7,6
+41,Brooklyn,Brooklyn Heights,59d7872e5a2c911745c2e8ca,Joe Coffee,95,8.8,13
+42,Brooklyn,Brooklyn Heights,4de26e06814df7ebdc14af8b,Vineapple Cafe,465,8.4,151
+43,Brooklyn,Brooklyn Heights,4acf7fb1f964a5201dd420e3,Starbucks,170,6.7,49
+44,Brooklyn,Cobble Hill,59c2c26635f9837e08397ef4,Fare & Folk,27,7.3,4
+45,Brooklyn,Cobble Hill,55423f82498e5156ac21cfb6,Swallow Cafe,253,7.8,47
+46,Brooklyn,Cobble Hill,580d0a4838fa8cf0e28e76c2,Espresso Me,49,7.1,17
+47,Brooklyn,Cobble Hill,5b930cafb77c77002c38373b,Salter House,9,6.4,0
+48,Brooklyn,Carroll Gardens,58d933702f91cb026f478e38,East One Coffee Roasters,244,9.1,36
+49,Brooklyn,Carroll Gardens,5d7ce692b4fc9c0008394021,Hungry Ghost,20,8.9,0
+0,Bronx,Kingsbridge,5660c06b498e4003dba169a5,Mon Amour Coffee & Wine,22,8.4,7
+1,Bronx,Kingsbridge,50ccb177e4b00957ca13bdd0,Gold Mine Cafe,13,6.7,9
+2,Manhattan,Marble Hill,55f81cd2498ee903149fcc64,Starbucks,24,8,2
+3,Manhattan,Marble Hill,57655be738faa66160da7527,Starbucks,7,7.2,0
+4,Bronx,Norwood,4c6d5ce5e6b7b1f7af76a98e,Nicky's Coffee Shop,12,8,10
+5,Bronx,Pelham Parkway,4bb62b326edc76b05d80301c,Liberty Donut & Coffee Shop,14,7,8
+6,Bronx,Pelham Parkway,0,0,0,0,0
+7,Bronx,Fordham,51bb492d498e4a3ea2ebf17d,Primavera Cafe,26,8.4,79
+8,Bronx,East Tremont,4d39a9bacc48224b57ae354f,North Star Cafe,16,8.2,21
+9,Bronx,West Farms,0,0,0,0,0
+10,Bronx,Hunts Point,0,0,0,0,0
+11,Bronx,Throgs Neck,58b1b3e6076be15eeba26a3f,The Miles Coffee Bar,13,8,6
+12,Bronx,Van Nest,4c1c5630e9c4ef3b4ccd45aa,Conti's Pastry Shoppe,47,8.7,15
+13,Bronx,Morris Park,4c743793b474a1cd3bf5b5bf,La Casa Del Caffe,16,7.5,8
+14,Bronx,Belmont,56eeeb16498e8f651b540d2c,Prince Coffee House,25,7.8,8
+15,Bronx,Belmont,53a0be61498eeec38e5112e0,Starbucks,68,7.3,11
+16,Bronx,Belmont,5cb4b7c5fdb9a7002c70843d,Starbucks,0,7.1,0
+17,Bronx,Belmont,0,0,0,0,0
+18,Bronx,North Riverdale,4b8d1887f964a520aae732e3,Noni's Coffee Shop,8,6.9,5
+19,Bronx,Edgewater Park,58b1b3e6076be15eeba26a3f,The Miles Coffee Bar,13,8,6
+20,Bronx,Edgewater Park,0,0,0,0,0
+21,Brooklyn,Bay Ridge,57f4f80ecd105476c3631bf1,Coffee Rx,8,8.2,1
+22,Brooklyn,Bay Ridge,4b63116ff964a520c8602ae3,Caffe Cafe,15,6.9,20
+23,Brooklyn,Bensonhurst,0,0,0,0,0
+24,Brooklyn,Bensonhurst,0,0,0,0,0
+25,Brooklyn,Sunset Park,5d51c1639ce0d00008045cd4,Yafa,2,8.2,4
+26,Brooklyn,Greenpoint,54d43863498e653d2ab8343f,Early,129,9,30
+27,Brooklyn,Greenpoint,4a6b3156f964a52025ce1fe3,Cafe Riviera,34,8.5,25
+28,Brooklyn,Greenpoint,518cf9ec498e8c38bda0268d,Homecoming,217,8.9,45
+29,Brooklyn,Greenpoint,575467b1498e848fce847ca1,Pueblo Querido Coffee Roasters,22,8.1,7
+30,Brooklyn,Greenpoint,58b6e16ffc73d40233da9715,odd fox,41,8.4,8
+31,Brooklyn,Greenpoint,576eb1f5cd10a371033f7ad6,Maman,179,8.9,36
+32,Brooklyn,Greenpoint,4d8f7d48d265236a02c72117,Upright Coffee,159,7.8,49
+33,Brooklyn,Greenpoint,55cf6244498e24c4ebe3ae0b,Sweetleaf,170,8.5,24
+34,Brooklyn,Brighton Beach,4b59aedcf964a520999228e3,Starbucks,129,6.4,37
+35,Brooklyn,Sheepshead Bay,4b1aa197f964a520e5ed23e3,Cafe Aziza 7,6,6,4
+36,Brooklyn,Manhattan Terrace,4c302b9409a99c749bff0a2a,Chock Full O' Nuts,6,6.2,1
+37,Brooklyn,Flatbush,5172b2d4498e646485496d05,Coffee Mob,85,8.1,32
+38,Brooklyn,Flatbush,55845926498e6ad57d30d6f8,Coffee Z,13,7,2
+39,Brooklyn,Crown Heights,59677d60b1ec1341053e19c6,Bakerie,14,8.3,6
+40,Brooklyn,Crown Heights,51795824e4b00273953ea4c4,Chocolatte Espresso Bar,24,7.2,4
+41,Brooklyn,Crown Heights,4d2b2d3b3c795481e27ee69b,Jenny Coffe Shop #2,6,6.9,4
+42,Brooklyn,Crown Heights,0,0,0,0,0
+43,Brooklyn,Kensington,4c7447221b30a093c93fec09,Soho Cafe & Grill,22,7.5,25
+44,Brooklyn,Kensington,57c4b6dc498ece54312a9a70,Angelica's Coffee Shop,6,7,6
+45,Brooklyn,Windsor Terrace,5c4ce1ccdd8442002c2bfb4f,Daytime,16,8.6,2
+46,Brooklyn,Prospect Heights,4a2407e6f964a520ef7d1fe3,Sit & Wonder,305,8.7,117
+47,Brooklyn,Prospect Heights,52711cbc498e8f4e454b4db6,Konditori,102,8.4,24
+48,Brooklyn,Prospect Heights,5a6cc216f5e9d763b7a37c8f,Gran Caffe De Martini,27,8.7,7
+49,Brooklyn,Prospect Heights,5d920abe452d400008d5dc69,"Ciao, Gloria",40,8.9,9

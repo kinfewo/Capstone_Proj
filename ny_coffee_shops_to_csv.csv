@@ -1,0 +1,319 @@
+Borough,Neighborhood,ID,Name
+Bronx,Kingsbridge,5660c06b498e4003dba169a5,Mon Amour Coffee & Wine
+Manhattan,Marble Hill,55f81cd2498ee903149fcc64,Starbucks
+Manhattan,Marble Hill,57655be738faa66160da7527,Starbucks
+Bronx,Norwood,4c6d5ce5e6b7b1f7af76a98e,Nicky's Coffee Shop
+Bronx,Pelham Parkway,4bb62b326edc76b05d80301c,Liberty Donut & Coffee Shop
+Bronx,Bedford Park,4fe48299e4b06b1c063a2c33,National Coffee Shop
+Bronx,West Farms,4baa3cfff964a52081563ae3,Prospect Coffee Shop
+Bronx,Throgs Neck,58b1b3e6076be15eeba26a3f,The Miles Coffee Bar
+Bronx,Van Nest,4c1c5630e9c4ef3b4ccd45aa,Conti's Pastry Shoppe
+Bronx,Morris Park,4c743793b474a1cd3bf5b5bf,La Casa Del Caffe
+Bronx,Belmont,53a0be61498eeec38e5112e0,Starbucks
+Bronx,Belmont,5cb4b7c5fdb9a7002c70843d,Starbucks
+Bronx,North Riverdale,4b8d1887f964a520aae732e3,Noni's Coffee Shop
+Bronx,Edgewater Park,58b1b3e6076be15eeba26a3f,The Miles Coffee Bar
+Bronx,Edgewater Park,4f446de019836ed0019408da,Bridges
+Brooklyn,Greenpoint,518cf9ec498e8c38bda0268d,Homecoming
+Brooklyn,Greenpoint,575467b1498e848fce847ca1,Pueblo Querido Coffee Roasters
+Brooklyn,Greenpoint,58b6e16ffc73d40233da9715,odd fox
+Brooklyn,Greenpoint,576eb1f5cd10a371033f7ad6,Maman
+Brooklyn,Greenpoint,4d8f7d48d265236a02c72117,Upright Coffee
+Brooklyn,Greenpoint,55cf6244498e24c4ebe3ae0b,Sweetleaf
+Brooklyn,Brighton Beach,4b59aedcf964a520999228e3,Starbucks
+Brooklyn,Manhattan Terrace,4c302b9409a99c749bff0a2a,Chock Full O' Nuts
+Brooklyn,Flatbush,5172b2d4498e646485496d05,Coffee Mob
+Brooklyn,Flatbush,55845926498e6ad57d30d6f8,Coffee Z
+Brooklyn,Crown Heights,4d2b2d3b3c795481e27ee69b,Jenny Coffe Shop #2
+Brooklyn,Kensington,57c4b6dc498ece54312a9a70,Angelica's Coffee Shop
+Brooklyn,Prospect Heights,4a2407e6f964a520ef7d1fe3,Sit & Wonder
+Brooklyn,Prospect Heights,5a6cc216f5e9d763b7a37c8f,Gran Caffe De Martini
+Brooklyn,Prospect Heights,5d5021c8dbdd3d0008a39281,Coffee Spot
+Brooklyn,Williamsburg,5d8663bddfbfcc0007278c66,Konditori
+Brooklyn,Williamsburg,55b02e05498ef881a3a44c6d,The Flat's BK Speed Coffee
+Brooklyn,Bushwick,5ca8ea3cd4cc980039e3729c,Lazy Suzy Cafe & Shop
+Brooklyn,Bushwick,55e9fe71498e8edb034385a7,Dweebs
+Brooklyn,Bushwick,56b8c8aa498e095e6ff4b065,Brooklyn Kava
+Brooklyn,Bushwick,54c595e2498e9ffb3d369250,Bushwick Public House
+Brooklyn,Bushwick,4ee74dca7ee5cae3f273d82e,Central Cafe
+Brooklyn,Bedford Stuyvesant,56bf7516cd1024b6713b3563,Brooklyn Kettle
+Brooklyn,Bedford Stuyvesant,5662f5d3498e53d321cd3456,"S,T Coffee"
+Brooklyn,Bedford Stuyvesant,52a102da11d29a428cb564e7,Crocus Coffee
+Brooklyn,Brooklyn Heights,59d7872e5a2c911745c2e8ca,Joe Coffee
+Brooklyn,Brooklyn Heights,4de26e06814df7ebdc14af8b,Vineapple Cafe
+Brooklyn,Brooklyn Heights,4acf7fb1f964a5201dd420e3,Starbucks
+Brooklyn,Cobble Hill,59c2c26635f9837e08397ef4,Fare & Folk
+Brooklyn,Cobble Hill,55423f82498e5156ac21cfb6,Swallow Cafe
+Brooklyn,Cobble Hill,580d0a4838fa8cf0e28e76c2,Espresso Me
+Brooklyn,Cobble Hill,5b930cafb77c77002c38373b,Salter House
+Brooklyn,Carroll Gardens,58d933702f91cb026f478e38,East One Coffee Roasters
+Brooklyn,Carroll Gardens,5d7ce692b4fc9c0008394021,Hungry Ghost
+Brooklyn,Carroll Gardens,5ab6635edb1d812e09c3bc11,Bklyn Habit
+Brooklyn,Carroll Gardens,5afda093012358002cfdbd9b,Planted
+Brooklyn,Carroll Gardens,5970b104b9ac383dd3f059c2,Velvette Brew
+Brooklyn,Carroll Gardens,49e49a74f964a52010631fe3,D'Amico Coffee Roasters
+Brooklyn,Carroll Gardens,5ccdd5fd8b98fd0039cf6e99,Bond Street Coffee And Goods
+Brooklyn,Red Hook,4cf111d0899c6ea8bf48eec1,Red Hook coffee shop
+Brooklyn,Gowanus,5b2aa0d02619ee002c85184e,nerd be cool.
+Brooklyn,Gowanus,5ab6635edb1d812e09c3bc11,Bklyn Habit
+Brooklyn,Gowanus,52b33702498e8f48baff2f84,WFM Coffee Bar
+Brooklyn,Fort Greene,49b79e04f964a5202b531fe3,Bittersweet
+Brooklyn,Fort Greene,5295f62511d24c029a9ec2d9,Hungry Ghost
+Brooklyn,Park Slope,5e2c4d6803cb1200089cbb9e,Hungry Ghost
+Brooklyn,Park Slope,582332f950111c2bcea530e9,Blue Bottle Coffee
+Brooklyn,Park Slope,4a64e954f964a520f6c61fe3,Café Regular du Nord
+Brooklyn,Park Slope,5b65a1ee6dcf04002cbca38f,Velvette Brew
+Brooklyn,Park Slope,5d8e3010396792000846b37c,nerd be cool. Espresso lab
+Brooklyn,Park Slope,59f2499012f0a97a14b38d57,Milk Bar
+Brooklyn,Bath Beach,546f2a1e498ec971bfa42c81,Starbucks
+Brooklyn,Borough Park,55ef5340498eb1fd97754344,1982 Coffee Roasters
+Brooklyn,Marine Park,5e4855647542960008d9a268,Marine Park Coffee
+Brooklyn,Downtown,5ac4c1a3646e385d9e73f4d1,Devoción
+Brooklyn,Downtown,5a6395d32105c3555b679f6e,Hungry Ghost
+Brooklyn,Downtown,5b89aecc8c812a002ca7f2af,Coffee Project New York
+Brooklyn,Downtown,5c9f97a8535d6f002c4abf09,White Noise Coffee Co.
+Brooklyn,Downtown,530a2105498ec96180d3a42c,Absolute Coffee
+Brooklyn,Boerum Hill,5831d03488cfcc313b5924b2,dot & line
+Brooklyn,Boerum Hill,5d90bcd9bdcf690008c68e47,IXV
+Brooklyn,Boerum Hill,5ac4c1a3646e385d9e73f4d1,Devoción
+Brooklyn,Boerum Hill,5b89aecc8c812a002ca7f2af,Coffee Project New York
+Brooklyn,Boerum Hill,530a2105498ec96180d3a42c,Absolute Coffee
+Brooklyn,Boerum Hill,5ae700063fcee800395266b5,Hungry Ghost
+Brooklyn,Prospect Lefferts Gardens,5bddec60c97f28002c534559,Brooklyn Perk
+Brooklyn,Ocean Hill,58bad25c4bc2f1632aace318,Daily Press Coffee
+Brooklyn,City Line,4f5f67eae4b0f5c1d143a686,Jassar Gourmet Deli
+Brooklyn,Georgetown,5c0ae329898bdc002c5d08f9,Starbucks
+Brooklyn,East Williamsburg,55aad5ad498e3edffdc18580,City of Saints Coffee Roasters
+Brooklyn,East Williamsburg,4a5a2472f964a520c6b91fe3,Jessi's Coffee Shop
+Brooklyn,North Side,546e7431498ea09f2b9152be,Sweatshop
+Brooklyn,North Side,5e35c47bee4edc0008eb55c5,Copper Mug Coffee
+Brooklyn,North Side,5d839388ebc5f800089cea77,Daymoves
+Brooklyn,North Side,5b86febb3731ee002c98aa4b,ppl
+Brooklyn,North Side,4ed1077a4690a03b5e13c348,Black Brick
+Brooklyn,North Side,5b3cdc52c9a517002c585380,Blue Bottle Coffee
+Brooklyn,North Side,5dcece7b5dd031000867b62e,Hungry Ghost
+Brooklyn,North Side,4a69c95df964a52008cc1fe3,Oslo Coffee
+Brooklyn,North Side,4eba99d3be7b1e562036cb46,Partners Coffee
+Brooklyn,North Side,4a945657f964a520432120e3,Oslo Coffee Roasters
+Brooklyn,North Side,5661eb12498e5dafb5f818f7,Lion's Milk
+Brooklyn,South Side,5b86febb3731ee002c98aa4b,ppl
+Brooklyn,South Side,5d839388ebc5f800089cea77,Daymoves
+Brooklyn,South Side,5d8663bddfbfcc0007278c66,Konditori
+Brooklyn,South Side,4a945657f964a520432120e3,Oslo Coffee Roasters
+Brooklyn,South Side,546e7431498ea09f2b9152be,Sweatshop
+Brooklyn,South Side,4ed1077a4690a03b5e13c348,Black Brick
+Manhattan,Chinatown,579f74eb498e9a4d6caabeda,Little Canal
+Manhattan,Chinatown,4df7603c7d8b5f396ac5cfd5,Cafe Grumpy
+Manhattan,Washington Heights,5bafd8419de23b002c772a72,Forever Coffee Bar
+Manhattan,Washington Heights,4aafdf93f964a520f66420e3,Starbucks
+Manhattan,Inwood,5c092ec2d1a402002cd083cb,Kuro Kirin
+Manhattan,Hamilton Heights,55aa54bc498eac980f832bc9,Monkey Cup
+Manhattan,Hamilton Heights,537f7140498e15919e85ff84,Manhattanville Coffee
+Manhattan,Hamilton Heights,57e584ed498eddfb8e1971a9,Matto Espresso (Espresso Matto)
+Manhattan,Hamilton Heights,5b3cb1e828374e003971f2b1,Double Dutch Espresso
+Manhattan,Manhattanville,5b0345aa9ba3e5002c6bfeb8,Dear Mama Coffee
+Manhattan,Manhattanville,5c58826ad1a402002c0b8793,Plowshares Coffee
+Manhattan,Manhattanville,4fef2f45e4b0562c835d6b7c,Kuro Kuma
+Manhattan,Upper East Side,58232a8d8b624d27650026e8,Handcraft Coffee
+Manhattan,Upper East Side,5c01826e60d11b002c912004,Starbucks
+Manhattan,Upper East Side,4ef4c5b099111bd0a9b8e9c2,Joe the Art of Coffee
+Manhattan,Upper East Side,5dbf3656eb5a0d000859a595,787 Coffee
+Manhattan,Upper East Side,57eeb8e3498e1dd086ebf03f,Starbucks Reserve
+Manhattan,Upper East Side,59b6f86861f0700444627663,Nespresso
+Manhattan,Yorkville,5b0edcd498fbfc002cfcad0e,Stella & Fly
+Manhattan,Yorkville,5145d153e4b0887518ec0317,Yorkafe
+Manhattan,Yorkville,58b2f2f60037eb7f1a778535,Mellow Yellow - coffee & vibes
+Manhattan,Yorkville,4a819c70f964a52006f71fe3,Starbucks
+Manhattan,Yorkville,4b69efa9f964a52014bd2be3,Starbucks
+Manhattan,Yorkville,4da39a219935a0933d0bcd6f,The Brown Cup
+Manhattan,Lenox Hill,4b96c4b5f964a5204ce334e3,The Coffee Inn
+Manhattan,Lenox Hill,4a4281c6f964a520e9a51fe3,Gotham Coffee House
+Manhattan,Lenox Hill,5720f9bfcd10e6f14ea7317f,Gregorys Coffee
+Manhattan,Lenox Hill,4e9078d6b63456ab9570ec12,Oslo Coffee Roasters
+Manhattan,Lenox Hill,4ef4c5b099111bd0a9b8e9c2,Joe the Art of Coffee
+Manhattan,Roosevelt Island,4b0807abf964a520890223e3,Starbucks
+Manhattan,Upper West Side,4a773e0df964a520f1e31fe3,Joe Coffee Company
+Manhattan,Upper West Side,589634906c682b1f845ae6dc,Matto Espresso
+Manhattan,Upper West Side,4fc64ab9e4b0acb95c508a5f,Irving Farm Coffee Roasters
+Manhattan,Lincoln Square,544e883b498e01e80f241740,Joe: The Art of Coffee
+Manhattan,Lincoln Square,4abb899bf964a520f18320e3,Starbucks
+Manhattan,Clinton,5c683caaf96b2c00397a8609,Oslo Coffee Roasters
+Manhattan,Clinton,526d9114498ec8efda93fcce,Romeo and Juliet Coffee
+Manhattan,Clinton,5a8ce147bed4832067bea15e,Bird & Branch
+Manhattan,Clinton,53bad291498e3c01b5629fe8,The Jolly Goat Coffee Bar
+Manhattan,Midtown,5491e424498e93529c115699,Bluestone Lane
+Manhattan,Midtown,54566365498e4fb5ed4fe987,Blue Bottle Coffee
+Manhattan,Midtown,59078c905d891b3723d5d6c4,Joe Coffee Company
+Manhattan,Midtown,57f27362498ef61538900f04,La Colombe Torrefaction
+Manhattan,Murray Hill,516bf3c5e4b0e8d4443da599,Perk Kafe
+Manhattan,Murray Hill,4caf199db4b0a35dc8033ece,Lucid Cafe
+Manhattan,Murray Hill,572759e0498efe726c551007,Taylor St. Baristas
+Manhattan,Murray Hill,59f337859e3b65154afaaa14,Blue Bottle Coffee
+Manhattan,Murray Hill,5492c1ac498e8912e761756f,Gregory's Coffee
+Manhattan,Murray Hill,536fe442498e193806dedd8f,Cafe Grumpy
+Manhattan,Chelsea,519a94e3498e722d3d9ae1bf,Intelligentsia Coffee
+Manhattan,Chelsea,5c13bf838afbe0002de55061,Starbucks Reserve Roastery
+Manhattan,Chelsea,5cc82d711acf11002c0998f5,St Kilda Coffee
+Manhattan,Chelsea,569aa89d498e5a25c05fdfec,Terremoto
+Manhattan,Chelsea,4f3a9e05bb3d2fbe725ca57a,Blue Bottle Coffee
+Manhattan,Chelsea,52e3f701498eb11ab8cb510f,Underline Coffee
+Manhattan,Chelsea,49c192c5f964a520b6551fe3,Joe Coffee Company
+Manhattan,Chelsea,55e9f118498eda28f897f9e3,Kobrick Coffee Co.
+Manhattan,Greenwich Village,573498df498e6df2eb8b36a7,La Colombe Torrefaction
+Manhattan,Greenwich Village,3fd66200f964a52059e61ee3,Porto Rico Importing Co.
+Manhattan,East Village,49d36ca4f964a520f75b1fe3,Ninth Street Espresso
+Manhattan,East Village,5bb4cdac28374e002bac356a,787 Coffee
+Manhattan,East Village,47fdf872f964a520e14e1fe3,Abraço
+Manhattan,Lower East Side,58cad6c05da8f41cc9b96113,Blue Bottle Coffee
+Manhattan,Lower East Side,52711f4911d29752fa8b53c8,Black Cat Coffee
+Manhattan,Tribeca,4f6a28d5e4b085e9a4b3c5e1,Kaffe 1668
+Manhattan,Tribeca,4ea0afbf9adf1e334e4cc0e6,Laughing Man Coffee & Tea
+Manhattan,Tribeca,5bbb9cd686f4cc00392b5aaf,Blue Bottle Coffee
+Manhattan,Little Italy,52b0a990498eb3a992b89573,Happy Bones
+Manhattan,Little Italy,57bf76a2498e98061d338fe3,Café Integral
+Manhattan,Soho,4a942a25f964a520972020e3,Ground Support
+Manhattan,Soho,52b0a990498eb3a992b89573,Happy Bones
+Manhattan,Soho,5703f9a5cd1014db975d2d21,About Coffee
+Manhattan,Soho,49d2b43ef964a520cb5b1fe3,La Colombe Torrefaction
+Manhattan,Soho,573498df498e6df2eb8b36a7,La Colombe Torrefaction
+Manhattan,West Village,5418490f498e4d3bb75c7bcc,The ELK
+Manhattan,West Village,5b8c24546dcf04002c9c673c,Oslo Coffee Roasters
+Manhattan,West Village,546cb126498eabb0f206d61f,Partners Coffee Roasters
+Manhattan,Manhattan Valley,4fdc9a79e4b0735a6deafc25,Starbucks
+Manhattan,Manhattan Valley,54733f59498e78d5fb3a0755,Plowshares Coffee Bloomingdale
+Manhattan,Manhattan Valley,5d864371ebc5f80008c24794,Peaky Barista
+Manhattan,Morningside Heights,5f9d9d9010b05638bb879711,Blue Bottle Coffee
+Manhattan,Morningside Heights,59972a55ccad6b5a97021ca0,Hex & Company
+Manhattan,Morningside Heights,4d4fe94b529dcbffe118d5c4,Joe Coffee Company
+Manhattan,Morningside Heights,40f32600f964a520720a1fe3,The Hungarian Pastry Shop
+Manhattan,Gramercy,5b44c582d8096e002ccd329a,Citizens of Gramercy
+Manhattan,Gramercy,580226bb38fae0dde3f6bd9a,Think Coffee
+Manhattan,Gramercy,4a704000f964a52040d71fe3,Starbucks
+Manhattan,Battery Park City,57210afa498ecfbb8c1be6cc,Le District Coffee
+Manhattan,Battery Park City,4ce41f161594236ac316fb49,Starbucks Reserve
+Manhattan,Battery Park City,5dba113267232c000803cb37,For Five Coffee Roasters
+Manhattan,Battery Park City,59bd506ce2d4aa3d68b99a88,Blue Bottle Coffee
+Manhattan,Battery Park City,50202b0ee4b0cabb110c01a2,Laughing Man Coffee & Tea
+Manhattan,Battery Park City,57ae102d498e12fa1c146652,Caffe Lavazza @ Eataly Fidi
+Manhattan,Financial District,574456e5498e39c73d234da1,Black Fox Coffee Co.
+Manhattan,Financial District,5ef8e6aef272db0008a81a76,Blue Bottle
+Manhattan,Financial District,561a8cd8498ed81f4384d0aa,La Colombe Torrefaction
+Manhattan,Financial District,5cf965947564f7002c79aa21,For Five Coffee Roasters
+Manhattan,Financial District,500d3cede4b0f6804faa90a8,Blue Spoon Coffee Co.
+Manhattan,Financial District,566de7e3498e30e4798117ae,Voyager Espresso
+Manhattan,Financial District,4a9ff5d9f964a520ba3d20e3,Starbucks
+Manhattan,Financial District,5985db5e4420d80bedd5e6ef,Boundless Plains Espresso
+Manhattan,Financial District,5f11ef5e938b7c3b5ead3c4f,Suited
+Manhattan,Financial District,5dfa92d864192300086a1931,787 Coffee
+Manhattan,Financial District,5893aa7e1e1de501d95e372e,Café Grumpy
+Manhattan,Financial District,59bd506ce2d4aa3d68b99a88,Blue Bottle Coffee
+Queens,Astoria,5b9586483d4791002c832b13,Gossip Coffee
+Queens,Astoria,4d52e7a63062a1cd1d7376a3,Caffe Borbone Inc
+Queens,Woodside,53b6b632498ebfb1ade29958,Blue Cups Cafe
+Queens,Jackson Heights,4b959d5bf964a52042ac34e3,Starbucks
+Queens,Flushing,54858fb9498e5a6cf73d6dee,Starbucks
+Queens,Long Island City,561e8aaa498eefc2281045f3,Etto Espresso Bar
+Queens,Long Island City,599eb7c1d8fe7a509b5b12e2,Clever Blend Lic
+Queens,Long Island City,5c97c48cc21cb10039e5ab1c,Sweetleaf
+Queens,Long Island City,5892249345005e403fff2519,Partners Coffee
+Queens,Long Island City,599089b916ef67066921cadc,Starbucks
+Queens,Long Island City,4f454b39e4b0b7292f7726b3,Triple Shot World Atlas
+Queens,Long Island City,56377108498ee642752d0355,Birch Coffee
+Queens,Long Island City,5d45eb8657df850008a2715d,Starbucks
+Queens,Sunnyside,4b9589d0f964a52033a834e3,Baruir's Coffee Store
+Queens,Sunnyside,57a883bd498e9480d5d5ee0a,Coffee Tossy
+Queens,East Elmhurst,4c951ab494a0236a10159312,Starbucks
+Queens,Rego Park,5606c830498ea559acac8882,Starbucks
+Queens,Little Neck,539f1236498eae48dda43154,Café 1 of a Kind
+Queens,Little Neck,590a1b760d8a0f379c250f58,Bean & Bean
+Queens,Briarwood,4b579c0df964a520623928e3,The Panorama Cafe
+Queens,Jamaica Center,59117151fe37407b680309e4,Starbucks
+Queens,Jamaica Center,4c7d897cb33a224b0b6ad881,Starbucks
+Queens,Oakland Gardens,59e75457ccad6b7e88469eaa,Starbucks
+Queens,Bay Terrace,4c103c96f1b6a593ada87b27,Starbucks
+Queens,Arverne,5c9418079d7468002cf73500,Locals Collective NYC
+Queens,Murray Hill,57a5e2d2498eefe2db3968f1,Coffee Factory
+Queens,Murray Hill,50560c63e4b09ebc6fbd3084,Cafe de Cupping
+Queens,Hillcrest,4fc94580d4f24895b4467dc0,Starbucks
+Queens,Ravenswood,5cb9c6d9971317002ddde871,Kinship Coffee Roasters
+Queens,Bellaire,4c316a5e3896e21e8712e790,Dunkin' / Baskin Robbins
+Queens,North Corona,4e4dcd00bd41b76bef93518f,La Familia Coffee Shop
+Staten Island,St. George,5ce097771de765002cda6a31,Starbucks
+Staten Island,Stapleton,4f32062d19833175d60ac132,Best Coffee Shop
+Staten Island,Stapleton,5bf864d5829b0c002c7f65b6,Coperaco
+Staten Island,West Brighton,54947a1f498e25109b501a5c,Fab Cup
+Staten Island,West Brighton,4b5c7f38f964a520c53229e3,Starbucks
+Staten Island,West Brighton,4fb7e3c2e4b0c241c3f83b88,Beans & Leaves
+Staten Island,New Springville,5aca35ef6f706a53e8564967,Starbucks
+Staten Island,New Dorp,5894d0b82eb979725ec092fc,SIPS + MAKER
+Staten Island,Eltingville,4bb65d86f562ef3b180b3097,Country Donuts
+Staten Island,Woodrow,58276af2abffa17aebea675d,Starbucks
+Brooklyn,Ditmas Park,4ccc11e772106dcb66ba9899,Cafe Madeline
+Staten Island,Park Hill,4a7d7985f964a520afee1fe3,Starbucks
+Staten Island,Charleston,4e4dcb41bd41b76bef9336c7,Starbucks
+Staten Island,Charleston,4bfc55f2da7120a138e949fd,Starbucks
+Staten Island,Arden Heights,4dac5c0cbd4197f68356a579,APlus at Sunoco
+Staten Island,Heartland Village,5aca35ef6f706a53e8564967,Starbucks
+Staten Island,Bulls Head,54c42298498e05bbd66a3e9d,Tim Hortons
+Manhattan,Carnegie Hill,5b784d8d037be1002c195155,Jack’s Stir Brew Coffee
+Manhattan,Carnegie Hill,599d7c7e61f0700d414c282b,Birch Coffee
+Manhattan,Carnegie Hill,51ae935b7dd2de27a217609e,DTUT
+Manhattan,Carnegie Hill,5abb96b31f8ed641d150eafa,Variety Coffee Roasters
+Manhattan,Carnegie Hill,57fd457a498e39cd34012586,Starbucks
+Manhattan,Carnegie Hill,5330323b498e2836f173cf9e,Starbucks
+Manhattan,Carnegie Hill,4da39a219935a0933d0bcd6f,The Brown Cup
+Manhattan,Carnegie Hill,552a7fbb498e1e8662ac8146,Go Cups
+Manhattan,Noho,56c73a4a498ea736d7388245,Ludlow Coffee Supply
+Manhattan,Noho,5682a50a498e25a5a1d870a2,The Lazy Llama Coffee Bar
+Manhattan,Noho,52a08dfd11d2c0b1f8dc28f6,Mudpark
+Manhattan,Noho,4f22b060e4b02a95fc886761,Caffe Vita Coffee Roasting Co.
+Manhattan,Noho,56054685498e21a5e4c9d5b2,Coffee Project New York
+Manhattan,Civic Center,5c7d2d843d4791002c881f1c,Hungry Ghost
+Manhattan,Civic Center,5941bb256f706a35169d1b7a,Think Coffee
+Manhattan,Civic Center,56093809498e5344ab8835a6,The Wooly Daily
+Manhattan,Civic Center,5d920337a6193400088e446d,Blue Bottle Coffee
+Manhattan,Civic Center,4ea0afbf9adf1e334e4cc0e6,Laughing Man Coffee & Tea
+Manhattan,Civic Center,597a11ccb2958f056b27c60d,Jack’s Stir Brew Coffee
+Manhattan,Civic Center,56e7f585498ed6598b4030cd,Birch Coffee
+Manhattan,Midtown South,5a09b45b6dcf043c23d5ad4e,King’s Street Coffee
+Manhattan,Midtown South,59ac2ec6fdb9a734dd847025,Paper Coffee
+Manhattan,Midtown South,4aa52d50f964a520834720e3,Stumptown Coffee Roasters
+Staten Island,Concord,4a7d7985f964a520afee1fe3,Starbucks
+Brooklyn,Remsen Village,56d0ce6ecd1080b2a0a9ecf8,brooklyn cafe brookdale
+Queens,Jamaica Hills,4afef300f964a520033222e3,Richie's Place Coffee Shop
+Bronx,Concourse Village,55f96d71498e452a8e98af29,Starbucks
+Manhattan,Sutton Place,53ce4d05498e4047bd6e9519,Birch Coffee
+Manhattan,Sutton Place,5c9ce7ca3e6741002cbfbc50,Dan Jones
+Queens,Hunters Point,4a37f385f964a520989e1fe3,Sweetleaf
+Queens,Hunters Point,560d7503498e239cc7a0387a,Communitea
+Manhattan,Turtle Bay,51b70eb9454a121ab89e5c42,Pennylane Coffee
+Manhattan,Turtle Bay,5e486228a95a5400082e4795,Remi Flowers & Coffee on 43rd
+Manhattan,Turtle Bay,55ca5d85498e594f7095854a,Pickler & Co.
+Manhattan,Turtle Bay,51ef337eccda532d86e9c863,Bluestone Lane
+Manhattan,Turtle Bay,5d03abf2561a37002cb8db84,Blank Slate Coffee + Kitchen
+Manhattan,Turtle Bay,546ca876498e1597e82ebd38,Ground Central Coffee Company
+Manhattan,Turtle Bay,507db18ae4b0f570fa6bf5bc,United Nations Coffee Shop
+Manhattan,Tudor City,5e486228a95a5400082e4795,Remi Flowers & Coffee on 43rd
+Manhattan,Tudor City,546ca876498e1597e82ebd38,Ground Central Coffee Company
+Manhattan,Tudor City,5d7bb678290f5e00075785d9,Starbucks
+Manhattan,Stuyvesant Town,5cfc297c286fda002c46c195,Perk Kafe
+Manhattan,Flatiron,5b9d8e69b6eedb002c72a39e,Devoción
+Manhattan,Flatiron,5890d8aecc5b6a43d6daa0f9,Gotham Coffee Roasters
+Manhattan,Flatiron,5a84fa9b72475048fff8f582,Peddler Coffee
+Manhattan,Flatiron,4c7e6bf0b33a224b9cd5da81,Caffé Vergnano
+Manhattan,Flatiron,5d2763ff8c3f0400235dbd57,Blue Bottle Coffee
+Queens,Sunnyside Gardens,59286a3a12f0a919d922f5ca,Brookside Market
+Queens,Sunnyside Gardens,4b749ffdf964a5208ce82de3,El Buen Sabor
+Queens,Sunnyside Gardens,4aaadceff964a520c35720e3,Starbucks
+Queens,Sunnyside Gardens,53626d4b498ecf7fc7bf800d,Caffé Bene
+Brooklyn,Fulton Ferry,5995fc8cbcbf7a4289076636,Starbucks
+Brooklyn,Fulton Ferry,590de1ce018cbb785fcc206e,FEED Shop & Cafe
+Brooklyn,Vinegar Hill,56462ba0498efa95117dbf41,Café Usagi
+Brooklyn,Vinegar Hill,4eefb1d529c22c6c75dbcbf7,Yalla at Punto Bianco
+Brooklyn,Dumbo,56462ba0498efa95117dbf41,Café Usagi
+Brooklyn,Dumbo,5995fc8cbcbf7a4289076636,Starbucks
+Bronx,Kingsbridge Heights,4b71c776f964a520fb5b2de3,Perista
+Bronx,Kingsbridge Heights,4c483d70c047be9a430c3379,Starbucks
+Bronx,Kingsbridge Heights,5156f35be4b0dc046e1af723,Perista Coffee Shop
+Manhattan,Hudson Yards,5c683caaf96b2c00397a8609,Oslo Coffee Roasters
+Manhattan,Hudson Yards,526d9114498ec8efda93fcce,Romeo and Juliet Coffee
